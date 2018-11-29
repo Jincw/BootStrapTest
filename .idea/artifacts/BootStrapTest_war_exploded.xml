@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BootStrapTest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/BootStrapTest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BootStrapTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BootStrapTest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
